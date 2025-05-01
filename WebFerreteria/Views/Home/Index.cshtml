@@ -1,0 +1,93 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<link rel="stylesheet" type="text/css" href="~/css/style_login.css" />
+
+    <div class="col s12 l4">
+        <div class="row Titulo">
+            <h2>Almacen J&D</h2>
+
+        </div>
+    </div>
+    <div class="carousel carousel-slider center">
+        <div class="carousel-fixed-item center">
+        <a class="btn waves-effect black-text darken-text-2" asp-area="" asp-controller="Home" asp-action="Privacy">Ingresar</a>
+        </div>
+
+        <div class="carousel-item white-text" href="#one!">
+            <h2>Inicio Secion </h2>
+            <div>
+                <form action="#" id="radiobutton">
+                    <p>
+                        <label>
+                            <input name="group1" type="radio" checked />
+                            <span>Admin</span>
+                        </label>
+                    </p>
+                    <p>
+                        <label>
+                            <input name="group1" type="radio" />
+                            <span>Empleado</span>
+                        </label>
+                    </p>
+
+                </form>
+
+            </div>
+
+            <div class="row loginField">
+                <div class="col s12 input-field">
+                    <label for="txtUsuario">Usuario</label>
+                    <input type="text" id="txtUsuario" name="txtUsuario" />
+                </div>
+            </div>
+            <div class="row loginField">
+                <div class="col s12 input-field">
+                    <label>Password</label>
+                    <input type="password" id="txtPassword" name="txtPassword" />
+                </div>
+
+            </div>
+
+
+        </div>
+        <!-- <div class="carousel-item black white-text" href="#two!">
+            <h2>Inicio Secion Empleado</h2>
+            <div class="row loginField">
+                <div class="col s12 input-field">
+                    <label for="txtUsuario">Usuario</label>
+                    <input type="text" id="txtUsuario" name="txtUsuario" />
+                </div>
+            </div>
+            <div class="row loginField">
+                <div class="col s12 input-field">
+                    <label>Password</label>
+                    <input type="password" id="txtPassword" name="txtPassword" />
+                </div>
+            </div>
+        </div> -->
+        <!-- <div class="carousel-item green white-text" href="#three!">
+          <h2>Third Panel</h2>
+          <p class="white-text">This is your third panel</p>
+        </div>
+        <div class="carousel-item blue white-text" href="#four!">
+          <h2>Fourth Panel</h2>
+          <p class="white-text">This is your fourth panel</p>
+        </div> -->
+    </div>
+
+
+<script>
+    var instance = M.Carousel.init({
+        fullWidth: true,
+        indicators: true
+    });
+
+    // Or with jQuery
+
+    $('.carousel.carousel-slider').carousel({
+        fullWidth: true,
+        indicators: true
+    });
+</script>

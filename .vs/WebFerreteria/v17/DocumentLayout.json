@@ -1,0 +1,299 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\duvan\\Desktop\\5to semestre\\webII\\WebFerreteria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC88E232-2FD3-47FB-9DE5-63B8FCE4D9B0}|WebFerreteria\\WebFerreteria.csproj|c:\\users\\duvan\\desktop\\5to semestre\\webii\\webferreteria\\webferreteria\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC88E232-2FD3-47FB-9DE5-63B8FCE4D9B0}|WebFerreteria\\WebFerreteria.csproj|solutionrelative:webferreteria\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC88E232-2FD3-47FB-9DE5-63B8FCE4D9B0}|WebFerreteria\\WebFerreteria.csproj|c:\\users\\duvan\\desktop\\5to semestre\\webii\\webferreteria\\webferreteria\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC88E232-2FD3-47FB-9DE5-63B8FCE4D9B0}|WebFerreteria\\WebFerreteria.csproj|solutionrelative:webferreteria\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC88E232-2FD3-47FB-9DE5-63B8FCE4D9B0}|WebFerreteria\\WebFerreteria.csproj|c:\\users\\duvan\\desktop\\5to semestre\\webii\\webferreteria\\webferreteria\\views\\clientes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC88E232-2FD3-47FB-9DE5-63B8FCE4D9B0}|WebFerreteria\\WebFerreteria.csproj|solutionrelative:webferreteria\\views\\clientes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC88E232-2FD3-47FB-9DE5-63B8FCE4D9B0}|WebFerreteria\\WebFerreteria.csproj|c:\\users\\duvan\\desktop\\5to semestre\\webii\\webferreteria\\webferreteria\\views\\clientes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC88E232-2FD3-47FB-9DE5-63B8FCE4D9B0}|WebFerreteria\\WebFerreteria.csproj|solutionrelative:webferreteria\\views\\clientes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC88E232-2FD3-47FB-9DE5-63B8FCE4D9B0}|WebFerreteria\\WebFerreteria.csproj|c:\\users\\duvan\\desktop\\5to semestre\\webii\\webferreteria\\webferreteria\\views\\clientes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC88E232-2FD3-47FB-9DE5-63B8FCE4D9B0}|WebFerreteria\\WebFerreteria.csproj|solutionrelative:webferreteria\\views\\clientes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC88E232-2FD3-47FB-9DE5-63B8FCE4D9B0}|WebFerreteria\\WebFerreteria.csproj|c:\\users\\duvan\\desktop\\5to semestre\\webii\\webferreteria\\webferreteria\\views\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC88E232-2FD3-47FB-9DE5-63B8FCE4D9B0}|WebFerreteria\\WebFerreteria.csproj|solutionrelative:webferreteria\\views\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC88E232-2FD3-47FB-9DE5-63B8FCE4D9B0}|WebFerreteria\\WebFerreteria.csproj|c:\\users\\duvan\\desktop\\5to semestre\\webii\\webferreteria\\webferreteria\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC88E232-2FD3-47FB-9DE5-63B8FCE4D9B0}|WebFerreteria\\WebFerreteria.csproj|solutionrelative:webferreteria\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC88E232-2FD3-47FB-9DE5-63B8FCE4D9B0}|WebFerreteria\\WebFerreteria.csproj|c:\\users\\duvan\\desktop\\5to semestre\\webii\\webferreteria\\webferreteria\\views\\inventarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC88E232-2FD3-47FB-9DE5-63B8FCE4D9B0}|WebFerreteria\\WebFerreteria.csproj|solutionrelative:webferreteria\\views\\inventarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC88E232-2FD3-47FB-9DE5-63B8FCE4D9B0}|WebFerreteria\\WebFerreteria.csproj|c:\\users\\duvan\\desktop\\5to semestre\\webii\\webferreteria\\webferreteria\\views\\inventarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC88E232-2FD3-47FB-9DE5-63B8FCE4D9B0}|WebFerreteria\\WebFerreteria.csproj|solutionrelative:webferreteria\\views\\inventarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC88E232-2FD3-47FB-9DE5-63B8FCE4D9B0}|WebFerreteria\\WebFerreteria.csproj|c:\\users\\duvan\\desktop\\5to semestre\\webii\\webferreteria\\webferreteria\\views\\pedidoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC88E232-2FD3-47FB-9DE5-63B8FCE4D9B0}|WebFerreteria\\WebFerreteria.csproj|solutionrelative:webferreteria\\views\\pedidoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC88E232-2FD3-47FB-9DE5-63B8FCE4D9B0}|WebFerreteria\\WebFerreteria.csproj|c:\\users\\duvan\\desktop\\5to semestre\\webii\\webferreteria\\webferreteria\\views\\pedidoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC88E232-2FD3-47FB-9DE5-63B8FCE4D9B0}|WebFerreteria\\WebFerreteria.csproj|solutionrelative:webferreteria\\views\\pedidoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC88E232-2FD3-47FB-9DE5-63B8FCE4D9B0}|WebFerreteria\\WebFerreteria.csproj|c:\\users\\duvan\\desktop\\5to semestre\\webii\\webferreteria\\webferreteria\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC88E232-2FD3-47FB-9DE5-63B8FCE4D9B0}|WebFerreteria\\WebFerreteria.csproj|solutionrelative:webferreteria\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC88E232-2FD3-47FB-9DE5-63B8FCE4D9B0}|WebFerreteria\\WebFerreteria.csproj|c:\\users\\duvan\\desktop\\5to semestre\\webii\\webferreteria\\webferreteria\\models\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC88E232-2FD3-47FB-9DE5-63B8FCE4D9B0}|WebFerreteria\\WebFerreteria.csproj|solutionrelative:webferreteria\\models\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC88E232-2FD3-47FB-9DE5-63B8FCE4D9B0}|WebFerreteria\\WebFerreteria.csproj|c:\\users\\duvan\\desktop\\5to semestre\\webii\\webferreteria\\webferreteria\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC88E232-2FD3-47FB-9DE5-63B8FCE4D9B0}|WebFerreteria\\WebFerreteria.csproj|solutionrelative:webferreteria\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC88E232-2FD3-47FB-9DE5-63B8FCE4D9B0}|WebFerreteria\\WebFerreteria.csproj|c:\\users\\duvan\\desktop\\5to semestre\\webii\\webferreteria\\webferreteria\\controllers\\pedidoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC88E232-2FD3-47FB-9DE5-63B8FCE4D9B0}|WebFerreteria\\WebFerreteria.csproj|solutionrelative:webferreteria\\controllers\\pedidoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\duvan\\Desktop\\5to semestre\\webII\\WebFerreteria\\WebFerreteria\\Views\\Clientes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebFerreteria\\Views\\Clientes\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\duvan\\Desktop\\5to semestre\\webII\\WebFerreteria\\WebFerreteria\\Views\\Clientes\\Edit.cshtml",
+              "RelativeToolTip": "WebFerreteria\\Views\\Clientes\\Edit.cshtml",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAAFgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T08:26:15.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\duvan\\Desktop\\5to semestre\\webII\\WebFerreteria\\WebFerreteria\\Views\\Clientes\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebFerreteria\\Views\\Clientes\\Details.cshtml",
+              "ToolTip": "C:\\Users\\duvan\\Desktop\\5to semestre\\webII\\WebFerreteria\\WebFerreteria\\Views\\Clientes\\Details.cshtml",
+              "RelativeToolTip": "WebFerreteria\\Views\\Clientes\\Details.cshtml",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAAAFsAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T08:23:15.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\duvan\\Desktop\\5to semestre\\webII\\WebFerreteria\\WebFerreteria\\Views\\Clientes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebFerreteria\\Views\\Clientes\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\duvan\\Desktop\\5to semestre\\webII\\WebFerreteria\\WebFerreteria\\Views\\Clientes\\Delete.cshtml",
+              "RelativeToolTip": "WebFerreteria\\Views\\Clientes\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T08:15:49.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\duvan\\Desktop\\5to semestre\\webII\\WebFerreteria\\WebFerreteria\\Views\\Inventarios\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebFerreteria\\Views\\Inventarios\\Create.cshtml",
+              "ToolTip": "C:\\Users\\duvan\\Desktop\\5to semestre\\webII\\WebFerreteria\\WebFerreteria\\Views\\Inventarios\\Create.cshtml",
+              "RelativeToolTip": "WebFerreteria\\Views\\Inventarios\\Create.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAADkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T08:03:50.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\duvan\\Desktop\\5to semestre\\webII\\WebFerreteria\\WebFerreteria\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebFerreteria\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\duvan\\Desktop\\5to semestre\\webII\\WebFerreteria\\WebFerreteria\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebFerreteria\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAGkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T07:51:48.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\duvan\\Desktop\\5to semestre\\webII\\WebFerreteria\\WebFerreteria\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WebFerreteria\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\duvan\\Desktop\\5to semestre\\webII\\WebFerreteria\\WebFerreteria\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "WebFerreteria\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T06:46:26.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\duvan\\Desktop\\5to semestre\\webII\\WebFerreteria\\WebFerreteria\\Views\\Clientes\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebFerreteria\\Views\\Clientes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\duvan\\Desktop\\5to semestre\\webII\\WebFerreteria\\WebFerreteria\\Views\\Clientes\\Create.cshtml",
+              "RelativeToolTip": "WebFerreteria\\Views\\Clientes\\Create.cshtml",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAAADwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T06:04:54.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\duvan\\Desktop\\5to semestre\\webII\\WebFerreteria\\WebFerreteria\\Views\\Clientes\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebFerreteria\\Views\\Clientes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\duvan\\Desktop\\5to semestre\\webII\\WebFerreteria\\WebFerreteria\\Views\\Clientes\\Index.cshtml",
+              "RelativeToolTip": "WebFerreteria\\Views\\Clientes\\Index.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABAAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T06:01:50.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\duvan\\Desktop\\5to semestre\\webII\\WebFerreteria\\WebFerreteria\\Views\\Inventarios\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebFerreteria\\Views\\Inventarios\\Index.cshtml",
+              "ToolTip": "C:\\Users\\duvan\\Desktop\\5to semestre\\webII\\WebFerreteria\\WebFerreteria\\Views\\Inventarios\\Index.cshtml",
+              "RelativeToolTip": "WebFerreteria\\Views\\Inventarios\\Index.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAACwAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T05:23:17.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\duvan\\Desktop\\5to semestre\\webII\\WebFerreteria\\WebFerreteria\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "WebFerreteria\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\duvan\\Desktop\\5to semestre\\webII\\WebFerreteria\\WebFerreteria\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "WebFerreteria\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T05:22:39.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\duvan\\Desktop\\5to semestre\\webII\\WebFerreteria\\WebFerreteria\\Views\\Pedidoes\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebFerreteria\\Views\\Pedidoes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\duvan\\Desktop\\5to semestre\\webII\\WebFerreteria\\WebFerreteria\\Views\\Pedidoes\\Create.cshtml",
+              "RelativeToolTip": "WebFerreteria\\Views\\Pedidoes\\Create.cshtml",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAAAIUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T05:18:26.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Inventario.cs",
+              "DocumentMoniker": "C:\\Users\\duvan\\Desktop\\5to semestre\\webII\\WebFerreteria\\WebFerreteria\\Models\\Inventario.cs",
+              "RelativeDocumentMoniker": "WebFerreteria\\Models\\Inventario.cs",
+              "ToolTip": "C:\\Users\\duvan\\Desktop\\5to semestre\\webII\\WebFerreteria\\WebFerreteria\\Models\\Inventario.cs",
+              "RelativeToolTip": "WebFerreteria\\Models\\Inventario.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T05:16:27.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\duvan\\Desktop\\5to semestre\\webII\\WebFerreteria\\WebFerreteria\\Models\\Pedido.cs",
+              "RelativeDocumentMoniker": "WebFerreteria\\Models\\Pedido.cs",
+              "ToolTip": "C:\\Users\\duvan\\Desktop\\5to semestre\\webII\\WebFerreteria\\WebFerreteria\\Models\\Pedido.cs",
+              "RelativeToolTip": "WebFerreteria\\Models\\Pedido.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T05:15:44.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\duvan\\Desktop\\5to semestre\\webII\\WebFerreteria\\WebFerreteria\\Views\\Pedidoes\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebFerreteria\\Views\\Pedidoes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\duvan\\Desktop\\5to semestre\\webII\\WebFerreteria\\WebFerreteria\\Views\\Pedidoes\\Index.cshtml",
+              "RelativeToolTip": "WebFerreteria\\Views\\Pedidoes\\Index.cshtml",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAAD0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T05:10:35.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PedidoesController.cs",
+              "DocumentMoniker": "C:\\Users\\duvan\\Desktop\\5to semestre\\webII\\WebFerreteria\\WebFerreteria\\Controllers\\PedidoesController.cs",
+              "RelativeDocumentMoniker": "WebFerreteria\\Controllers\\PedidoesController.cs",
+              "ToolTip": "C:\\Users\\duvan\\Desktop\\5to semestre\\webII\\WebFerreteria\\WebFerreteria\\Controllers\\PedidoesController.cs",
+              "RelativeToolTip": "WebFerreteria\\Controllers\\PedidoesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T05:10:07.256Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
